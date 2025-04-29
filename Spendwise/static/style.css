@@ -1,0 +1,118 @@
+
+body {
+    font-family:Arial, sans-serif;
+    /* background-color: rgb(30, 30, 30); */
+    background-image:url(spendwise_bg.jpg);
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.408);
+    background-color: #dcdcdc86;
+    border:#dcdcdc86;
+    border-radius: 10px;
+}
+h2 {
+    color: black;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.408);
+    background-color: #dcdcdc86;
+}
+
+h3 {
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.408);
+    background-color: #dcdcdc86;
+}
+form {
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc ;
+    width: 300px;
+    margin: auto;
+    text-align: left;
+    background-color: #53a63295;
+}
+
+input, select, button, .view-report-btn {
+    display: block;
+    width: 96%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 14px;
+    box-sizing: border-box;
+    
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+
+/* View Report Button */
+.view-report-btn {
+    margin-top: 10px;
+    background-color: #007bff;
+}
+
+
+.view-report-btn:hover {
+    background-color: #0056b3;
+}
+
+
+a {
+    display: block;
+    width: 96%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: #0056b3;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#predictionGraphs {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: 800;
+    font-size: larger;
+    
+}
