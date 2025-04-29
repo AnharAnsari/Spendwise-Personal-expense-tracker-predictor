@@ -1,7 +1,7 @@
 # 💸 SpendWise - Personal Expense Tracker
 
 Welcome to **SpendWise**, a simple and smart web application to track your personal expenses, visualize spending trends, and predict future expenses using machine learning!
-Authors - Arin Verma, Anhar Ansari
+- Authors - Arin Verma, Anhar Ansari
 ## 🚀 Features
 
 - Add and manage daily expenses
