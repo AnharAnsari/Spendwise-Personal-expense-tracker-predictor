@@ -7,3 +7,4 @@
 7. numpy
 8. scikit learn
 
+Use the pip install command in your code editor application's terminal to install these libraries.
