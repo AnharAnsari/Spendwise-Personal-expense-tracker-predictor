@@ -24,4 +24,4 @@ Welcome to **SpendWise**, a simple and smart web application to track your perso
 ---
 
 ## 🔧 Setup Instructions
-- An Instructions file has been provided , so follow the steps to Run our project.
+- An Instructions file has been provided , so follow the steps to  setup and Run our project.
