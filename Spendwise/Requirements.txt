@@ -1,0 +1,9 @@
+1. flask
+2. flask_mysqldb
+3. matplotlib
+4. io
+5. base64
+6. pandas
+7. numpy
+8. scikit learn
+
